@@ -1,4 +1,3 @@
-// mongodb+srv://shekhar:shekharadmin@cluster0.rabcw.mongodb.net/shoptronics?retryWrites=true&w=majority
 
 import express from 'express';
 import products from './data/products.js';
